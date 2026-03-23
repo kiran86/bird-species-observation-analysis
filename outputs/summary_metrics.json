@@ -1,0 +1,9 @@
+{
+  "total_observations": 17077,
+  "unique_species": 126,
+  "survey_events": 1408,
+  "forest_species": 108,
+  "grassland_species": 107,
+  "temperature_bird_count_correlation": -0.071,
+  "humidity_bird_count_correlation": -0.066
+}

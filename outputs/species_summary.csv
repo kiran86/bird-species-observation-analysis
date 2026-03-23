@@ -1,0 +1,216 @@
+habitat_type,common_name,total_observations,locations_present
+Forest,Red-eyed Vireo,694,11
+Forest,Carolina Wren,646,11
+Forest,Northern Cardinal,595,11
+Forest,Eastern Tufted Titmouse,541,11
+Forest,Eastern Wood-Pewee,486,11
+Forest,Acadian Flycatcher,436,11
+Forest,Red-bellied Woodpecker,398,11
+Forest,Blue-gray Gnatcatcher,310,11
+Forest,Ovenbird,303,9
+Forest,American Robin,294,11
+Forest,Wood Thrush,290,10
+Forest,Carolina Chickadee,273,11
+Forest,Blue Jay,213,11
+Forest,Downy Woodpecker,208,11
+Forest,Scarlet Tanager,199,11
+Forest,White-breasted Nuthatch,188,11
+Forest,Mourning Dove,162,10
+Forest,Great Crested Flycatcher,154,11
+Forest,Indigo Bunting,150,10
+Forest,American Goldfinch,147,11
+Forest,American Crow,142,11
+Forest,Brown-headed Cowbird,136,10
+Forest,Yellow-billed Cuckoo,133,9
+Forest,Northern Parula,114,10
+Forest,Eastern Towhee,98,10
+Forest,Pileated Woodpecker,96,11
+Forest,Hooded Warbler,64,3
+Forest,Chipping Sparrow,58,8
+Forest,Yellow-throated Vireo,55,6
+Forest,Cedar Waxwing,51,10
+Forest,Common Grackle,51,9
+Forest,Red-winged Blackbird,50,6
+Forest,Louisiana Waterthrush,43,5
+Forest,Pine Warbler,42,5
+Forest,Hairy Woodpecker,41,10
+Forest,Common Yellowthroat,38,7
+Forest,Field Sparrow,36,6
+Forest,Gray Catbird,36,9
+Forest,Song Sparrow,32,8
+Forest,Worm-eating Warbler,31,5
+Forest,Black-and-white Warbler,28,2
+Forest,American Redstart,25,8
+Forest,Warbling Vireo,25,3
+Forest,Eastern Bluebird,23,6
+Forest,Unidentified Chickadee,21,5
+Forest,Baltimore Oriole,20,7
+Forest,Northern Flicker,20,8
+Forest,Red-shouldered Hawk,20,6
+Forest,Swainson's Thrush,20,6
+Forest,Blackpoll Warbler,16,5
+Forest,Eastern Phoebe,16,7
+Forest,Fish Crow,14,6
+Forest,Chimney Swift,13,6
+Forest,Wild Turkey,13,7
+Forest,Yellow Warbler,13,7
+Forest,White-eyed Vireo,12,5
+Forest,Barred Owl,11,4
+Forest,House Wren,11,5
+Forest,Northern Mockingbird,11,6
+Forest,Canada Goose,10,4
+Forest,Black-throated Blue Warbler,9,4
+Forest,House Finch,9,5
+Forest,Veery,9,3
+Forest,Brown Thrasher,7,1
+Forest,Cerulean Warbler,7,3
+Forest,Double-crested Cormorant,7,2
+Forest,House Sparrow,7,2
+Forest,Osprey,7,3
+Forest,Prairie Warbler,7,2
+Forest,Eastern Meadowlark,6,1
+Forest,European Starling,6,3
+Forest,Cape May Warbler,5,2
+Forest,Grasshopper Sparrow,5,4
+Forest,Great Blue Heron,5,1
+Forest,Turkey Vulture,5,3
+Forest,Bay-breasted Warbler,4,2
+Forest,Mallard,4,1
+Forest,Unidentified Crow,4,2
+Forest,Yellow-breasted Chat,4,3
+Forest,Belted Kingfisher,3,1
+Forest,Black-throated Green Warbler,3,2
+Forest,Orchard Oriole,3,3
+Forest,Summer Tanager,3,2
+Forest,Wood Duck,3,1
+Forest,Yellow-rumped Warbler,3,1
+Forest,Yellow-throated Warbler,3,1
+Forest,Barn Swallow,2,2
+Forest,Black-capped Chickadee,2,1
+Forest,Dark-eyed Junco,2,1
+Forest,Eastern Kingbird,2,2
+Forest,Green Heron,2,1
+Forest,Magnolia Warbler,2,2
+Forest,Northern Rough-winged Swallow,2,2
+Forest,Northern Waterthrush,2,2
+Forest,Red-tailed Hawk,2,1
+Forest,Unidentified Woodpecker,2,2
+Forest,Black Vulture,1,1
+Forest,Blue-winged Warbler,1,1
+Forest,Horned Lark,1,1
+Forest,Kentucky Warbler,1,1
+Forest,Killdeer,1,1
+Forest,Nashville Warbler,1,1
+Forest,Peregrine Falcon,1,1
+Forest,Red-headed Woodpecker,1,1
+Forest,Ruby-throated Hummingbird,1,1
+Forest,Swamp Sparrow,1,1
+Forest,Tennessee Warbler,1,1
+Forest,Unidentified Flycatcher,1,1
+Grassland,Northern Cardinal,565,4
+Grassland,European Starling,516,3
+Grassland,Field Sparrow,506,4
+Grassland,Indigo Bunting,485,4
+Grassland,Grasshopper Sparrow,382,4
+Grassland,Red-winged Blackbird,379,4
+Grassland,Chipping Sparrow,368,4
+Grassland,Carolina Wren,365,4
+Grassland,American Goldfinch,362,4
+Grassland,Cedar Waxwing,302,4
+Grassland,Barn Swallow,266,3
+Grassland,Song Sparrow,239,4
+Grassland,Mourning Dove,235,4
+Grassland,Brown-headed Cowbird,230,4
+Grassland,American Robin,202,4
+Grassland,Eastern Tufted Titmouse,187,3
+Grassland,Eastern Meadowlark,180,4
+Grassland,Common Grackle,176,3
+Grassland,Eastern Bluebird,171,4
+Grassland,Eastern Towhee,165,4
+Grassland,American Crow,159,4
+Grassland,Blue Jay,141,4
+Grassland,Northern Mockingbird,132,4
+Grassland,Common Yellowthroat,108,3
+Grassland,Bobolink,103,1
+Grassland,Carolina Chickadee,103,4
+Grassland,Blue-gray Gnatcatcher,98,4
+Grassland,Red-bellied Woodpecker,95,3
+Grassland,Eastern Wood-Pewee,88,4
+Grassland,Gray Catbird,81,4
+Grassland,Tree Swallow,73,3
+Grassland,Great Crested Flycatcher,71,4
+Grassland,Eastern Kingbird,58,3
+Grassland,House Wren,56,3
+Grassland,Downy Woodpecker,55,3
+Grassland,Turkey Vulture,51,3
+Grassland,Baltimore Oriole,45,3
+Grassland,Red-eyed Vireo,45,3
+Grassland,Yellow-billed Cuckoo,43,3
+Grassland,Northern Rough-winged Swallow,38,3
+Grassland,Warbling Vireo,33,3
+Grassland,Fish Crow,30,3
+Grassland,Rock Dove,28,2
+Grassland,Acadian Flycatcher,26,3
+Grassland,Canada Goose,26,3
+Grassland,White-breasted Nuthatch,26,4
+Grassland,House Finch,24,3
+Grassland,Horned Lark,22,2
+Grassland,Unidentified Swallow,22,2
+Grassland,Unidentified Crow,21,4
+Grassland,Wood Thrush,19,3
+Grassland,Killdeer,18,3
+Grassland,Prairie Warbler,18,2
+Grassland,Scarlet Tanager,17,4
+Grassland,Brown Thrasher,16,4
+Grassland,Blue Grosbeak,15,3
+Grassland,Eastern Phoebe,15,3
+Grassland,Northern Flicker,15,3
+Grassland,Orchard Oriole,15,3
+Grassland,Unidentified Chickadee,15,2
+Grassland,Chimney Swift,14,2
+Grassland,Blackpoll Warbler,13,3
+Grassland,Hairy Woodpecker,13,4
+Grassland,Great Blue Heron,12,2
+Grassland,Pileated Woodpecker,12,3
+Grassland,Red-shouldered Hawk,10,3
+Grassland,House Sparrow,9,2
+Grassland,Northern Parula,9,3
+Grassland,American Kestrel,8,3
+Grassland,Pine Warbler,8,3
+Grassland,American Redstart,7,3
+Grassland,Purple Martin,6,2
+Grassland,Red-tailed Hawk,6,2
+Grassland,Yellow Warbler,6,1
+Grassland,Bald Eagle,5,2
+Grassland,Yellow-breasted Chat,5,3
+Grassland,Black Vulture,4,2
+Grassland,Yellow-throated Vireo,3,2
+Grassland,Barred Owl,2,1
+Grassland,Cooper's Hawk,2,2
+Grassland,Ruby-throated Hummingbird,2,1
+Grassland,Veery,2,1
+Grassland,Vesper Sparrow,2,1
+Grassland,Wild Turkey,2,2
+Grassland,Willow Flycatcher,2,2
+Grassland,Bay-breasted Warbler,1,1
+Grassland,Belted Kingfisher,1,1
+Grassland,Black-and-white Warbler,1,1
+Grassland,Black-throated Green Warbler,1,1
+Grassland,Cape May Warbler,1,1
+Grassland,Chestnut-sided Warbler,1,1
+Grassland,Chinese Pond-Heron,1,1
+Grassland,Kentucky Warbler,1,1
+Grassland,Least Flycatcher,1,1
+Grassland,Magnolia Warbler,1,1
+Grassland,Northern Waterthrush,1,1
+Grassland,Northwestern Crow,1,1
+Grassland,Ovenbird,1,1
+Grassland,Savannah Sparrow,1,1
+Grassland,Summer Tanager,1,1
+Grassland,Swainson's Thrush,1,1
+Grassland,Swamp Sparrow,1,1
+Grassland,Unidentified Flycatcher,1,1
+Grassland,Unidentified Warbler,1,1
+Grassland,White-eyed Vireo,1,1
+Grassland,White-throated Sparrow,1,1
+Grassland,Wood Duck,1,1
