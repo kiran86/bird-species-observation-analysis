@@ -17,7 +17,8 @@ This project combines bird monitoring observations from forest and grassland Exc
 - `src/build_dataset.py`: ingestion, cleaning, export, and chart generation
 - `outputs/`: cleaned dataset, summary tables, database, and figures
 - `sql/analysis_queries.sql`: starter SQL answers to the business questions
-- `app/streamlit_app.py`: dashboard starter app
+- `app/streamlit_app.py`: dashboard home page
+- `app/pages/`: focused Streamlit pages for habitat comparison, species exploration, and survey conditions
 - `reports/project_report.md`: generated project report
 
 ## Setup
@@ -36,4 +37,4 @@ streamlit run app/streamlit_app.py
 - PNG charts
 - SQL query file
 - Markdown report
-- Streamlit dashboard starter
+- Multipage Streamlit dashboard with filtered exploratory views
