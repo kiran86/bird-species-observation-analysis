@@ -74,5 +74,3 @@ Below are the principal charts produced; open the images in `outputs/figures/` t
 - Several grassland sheets were empty and were skipped during ingestion.
 - The grassland workbook uses `TaxonCode` while the forest workbook uses `NPSTaxonCode`; both were standardized into `taxon_code`.
 - Grassland does not include `Site_Name`, so the source sheet name is used as a fallback.
-
-If you want, I can (a) embed additional tables directly into this report, (b) add alt-text for every figure, or (c) create a rendered HTML/PDF version of this report.
